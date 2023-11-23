@@ -61,6 +61,9 @@ body {
   text-decoration: none;
   color: #f6f6f6;
 
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
   width: 23.625rem;
   border-radius: 8px;
   padding: 1.344rem 0;

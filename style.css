@@ -42,18 +42,27 @@ body {
 
 .preview__links {
   display: flex;
+  flex-direction: column;
+  align-items: center;
   justify-content: space-between;
+  gap: 2rem;
+}
+
+.preview__links__subtitle {
+  font-family: 'Krona One', sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
 }
 
 .preview__links__link {
-  background-color: #22d4fd;
   font-family: 'Montserrat', sans-serif;
+  border: 2px solid #22d4fd;
   font-weight: 600;
   text-decoration: none;
-  color: #000;
+  color: #f6f6f6;
 
-  width: 17.5rem;
-  border-radius: 16px;
+  width: 23.625rem;
+  border-radius: 8px;
   padding: 1.344rem 0;
 
   text-align: center;

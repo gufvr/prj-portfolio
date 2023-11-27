@@ -24,7 +24,7 @@ body {
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
-  color: #22D4FD;
+  color: #22d4fd;
   text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ body {
 }
 
 .title-emphasis {
-  color: #22D4FD;
+  color: #22d4fd;
 }
 
 .preview__content__text {
@@ -72,7 +72,7 @@ body {
 
 .preview__links__link {
   font-family: 'Montserrat', sans-serif;
-  border: 2px solid #22D4FD;
+  border: 2px solid #22d4fd;
   font-weight: 600;
   text-decoration: none;
   color: #f6f6f6;
@@ -97,10 +97,11 @@ body {
 
 .footer {
   color: #000;
-  background-color: #22D4FD;
+  background-color: #22d4fd;
 
   padding: 1.5rem;
   text-align: center;
   font-family: 'Montserrat', sans-serif;
   font-size: 1.5rem;
   font-weight: 400;
+}

@@ -57,6 +57,11 @@ body {
   font-family: var(--primary-font);
 }
 
+.preview__content__subtitle {
+  font-size: 1.25rem;
+  font-family: var(--primary-font);
+}
+
 .title-emphasis {
   color: var(--light-blue);
 }

@@ -29,7 +29,7 @@ O projeto consiste em ensinar boas práticas e forma de se utilizar o CSS ao seu
 
 ![Page](https://i.ibb.co/cQM58bZ/image-2023-11-29-234955639.png)
 
-## Feito por
+👨‍💻 Feito por
 
 **Gustavo Favero**
 

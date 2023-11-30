@@ -137,5 +137,10 @@ body {
 
   .preview {
     flex-direction: column-reverse;
+    padding: 5%;
+  }
+
+  .preview__content {
+    width: auto;
   }
 }
